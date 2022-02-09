@@ -109,5 +109,7 @@ W pliku **config.py** wpisujemy dane konta (email, hasło)
 
 Pliki wrzucamy do folderu z projektem pythona i możemy go zaimportować używając **import discord_automsg**.
 
+Przykładowy skrypt znajduje się [tu](https://github.com/serplay/discord_automsg/blob/main/work.py)
+
 <p align="right">(<a href="#top">Na początek</a>)</p>
 
