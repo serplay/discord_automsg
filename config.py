@@ -1,4 +1,4 @@
-daEmail = "sth" #put discord email here
-daPassword = "sth" #put discord password here
+daEmail = "sth" #tu email do konta discord
+daPassword = "sth" #tu hasło do konta discord
 def getCreds():
     return(daEmail,daPassword)
