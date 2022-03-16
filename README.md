@@ -90,13 +90,11 @@ pip install requests
 
 ### Instalacja
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Pobierz repo jako zip lub w terminalu za pomocą
+1. Pobierz repo jako zip lub w terminalu za pomocą
    ```sh
    git clone https://https://github.com/serplay/discord_automsg.git
    ```
+2. Wypakuj plik do wybranego folderu
 3. Voilà
 
 <p align="right">(<a href="#top">Na początek</a>)</p>
